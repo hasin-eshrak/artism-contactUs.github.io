@@ -157,8 +157,8 @@ body {
 .info .infoBox div span {
     min-width: 40px;
     height: 40px;
-    color: #ff9f00;
-    background: #fff;
+    color: #fff;
+    background: #ff9f00;
     display: flex;
     justify-content: center;
     align-items: center;
